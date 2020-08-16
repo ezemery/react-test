@@ -23,7 +23,7 @@ function App() {
   }
 
   const mailClicked = () => {
-      clickMailBox(!mailbox)
+      clickMailBox(true)
   }
 
   const toggleTheme = () => {
